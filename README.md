@@ -1,1 +1,1 @@
-# CS7250-F1-Visualization
+# CS7250-F1-Visualization by Sam Zilli
