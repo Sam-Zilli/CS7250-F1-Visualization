@@ -1,18 +1,37 @@
-# Import necessary packages
 import pandas as pd
 import os
 
-# Navigate to the folder where your CSV files are 
-os.chdir('C:\Users\admin\Documents\csv_files')
+# Read the race data
+delete_cols = pd.read_csv("/Users/sam/Documents/VisualStudiosProjects/CS7250/Final Project/CS7250-F1-Visualization/data/deleted_columns.csv")
 
-# Create an empty dataframe
-df = pd.DataFrame([])
+# Read the result data
+drivers = pd.read_csv("/Users/sam/Documents/VisualStudiosProjects/CS7250/Final Project/CS7250-F1-Visualization/data/drivers.csv")
 
-# Read all CSV files and append them to df
-for root, dirs, files in os.walk("."):
-   for name in files:
-       df_temp = pd.read_csv(name)
-       df = pd.concat([df,df_temp])
+# Merge the two datasets based on the shared column "raceId"
+merged_data = pd.merge(delete_cols, drivers, on="driverId")
 
-# Save df to a CSV file
-df.to_csv('all-csv-files.csv')
+# Write the merged data to a new CSV file
+merged_data.to_csv("/Users/sam/Documents/VisualStudiosProjects/CS7250/Final Project/CS7250-F1-Visualization/data/second_merged_data.csv", index=False)
+
+
+
+
+
+
+# Script to delete unwanted columns from csv
+# Read the merged data
+# merged_data = pd.read_csv("/Users/sam/Documents/VisualStudiosProjects/CS7250/Final Project/CS7250-F1-Visualization/data/merged_data.csv")
+
+# # List of columns to remove
+# columns_to_remove = ["time_x"
+#                      ,"url","fp1_date","fp1_time","fp2_date","fp2_time","fp3_date",
+#                      "fp3_time","quali_date","quali_time","sprint_date","sprint_time",
+#                      "constructorId","number","grid","position","positionText",
+#                      "positionOrder", "laps", "time_y", "milliseconds", "fastestLap", 
+#                      "fastestLapTime", "fastestLapSpeed"]
+
+# # Remove specified columns
+# merged_data = merged_data.drop(columns=columns_to_remove, errors="ignore")
+
+# # Write the modified data to a new CSV file
+# merged_data.to_csv("/Users/sam/Documents/VisualStudiosProjects/CS7250/Final Project/CS7250-F1-Visualization/data/deleted_columns.csv", index=False)
