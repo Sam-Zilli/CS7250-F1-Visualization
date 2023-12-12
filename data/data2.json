@@ -4,117 +4,195 @@
             {
                 "team_name": "mercedes",
                 "drivers": [
-                    {
-                        "driver_name": "Lewis Hamilton"
-                    },
-                    {
-                        "driver_name": "George Russell"
-                    }
+                    { "driver_name": "Lewis Hamilton" },
+                    { "driver_name": "George Russell" }
                 ],
-                "final_ranking" : "1", 
-                "money_spent" : "21"
+                "final_ranking": "3",
+                "points": "515"
             },
             {
                 "team_name": "red_bull",
                 "drivers": [
-                    {
-                        "driver_name": "Max Verstappen"
-                    },
-                    {
-                        "driver_name": "Sergio Perez"
-                    }
+                    { "driver_name": "Max Verstappen" },
+                    { "driver_name": "Sergio Perez" }
                 ],
-                "final_ranking" : "2", 
-                "money_spent" : "17"
+                "final_ranking": "1",
+                "points": "759"
             },
             {
                 "team_name": "ferrari",
                 "drivers": [
-                    {
-                        "driver_name": "Charles Leclerc"
-                    },
-                    {
-                        "driver_name": "Carlos Sainz"
-                    }
+                    { "driver_name": "Charles Leclerc" },
+                    { "driver_name": "Carlos Sainz" }
                 ],
-                "final_ranking" : "3", 
-                "money_spent" : "15"
+                "final_ranking": "2",
+                "points": "554"
             },
-
             {
                 "team_name": "mclaren",
                 "drivers": [
-                    {
-                        "driver_name": "Lando Norris"
-                    },
-                    {
-                        "driver_name": "Daniel Ricciardo"
-                    }
+                    { "driver_name": "Lando Norris" },
+                    { "driver_name": "Daniel Ricciardo" }
+                ],
+                "final_ranking": "5",
+                "points": "159"
+            },
+            {
+                "team_name": "alfa_romeo",
+                "drivers": [
+                    { "driver_name": "Kimi Raikkonen" },
+                    { "driver_name": "Antonio Giovinazzi" }
+                ],
+                "final_ranking": "6",
+                "points": "55"
+            },
+            {
+                "team_name": "alpha_tauri",
+                "drivers": [
+                    { "driver_name": "Pierre Gasly" },
+                    { "driver_name": "Yuki Tsunoda" }
+                ],
+                "final_ranking": "9",
+                "points": "35"
+            },
+            {
+                "team_name": "aston_martin",
+                "drivers": [
+                    { "driver_name": "Sebastian Vettel" },
+                    { "driver_name": "Lance Stroll" }
+                ],
+                "final_ranking": "7",
+                "points": "55"
+            },
+            {
+                "team_name": "haas",
+                "drivers": [
+                    { "driver_name": "Mick Schumacher" },
+                    { "driver_name": "Nikita Mazepin" }
+                ],
+                "final_ranking": "8",
+                "points": "37"
+            },
+            {
+                "team_name": "williams",
+                "drivers": [
+                    { "driver_name": "Nicholas Latifi" },
+                    { "driver_name": "Alex Albon" }
+                ],
+                "final_ranking": "10",
+                "points": "8"
+            },
+            {
+                "team_name" : "alpine",
+                "drivers" : [
+                    {"driver_name" : "Fernando Alonso"},
+                    {"driver_name" : "Esteban Ocon"}
                 ],
                 "final_ranking" : "4", 
-                "money_spent" : "0"
+                "points" : "173"
             }
-
         ],
         "year": 2022
     },
+
+
+
     {
         "teams": [
             {
                 "team_name": "mercedes",
                 "drivers": [
-                    {
-                        "driver_name": "Lewis Hamilton"
-                    },
-                    {
-                        "driver_name": "George Russell"
-                    }
+                    { "driver_name": "Lewis Hamilton" },
+                    { "driver_name": "George Russell" }
                 ],
-                "final_ranking" : "1", 
-                "money_spent" : "4"
+                "final_ranking": "3",
+                "points": "515"
             },
             {
                 "team_name": "red_bull",
                 "drivers": [
-                    {
-                        "driver_name": "Max Verstappen"
-                    },
-                    {
-                        "driver_name": "Sergio Perez"
-                    }
+                    { "driver_name": "Max Verstappen" },
+                    { "driver_name": "Sergio Perez" }
                 ],
-                "final_ranking" : "2", 
-                "money_spent" : "5"
+                "final_ranking": "1",
+                "points": "759"
             },
             {
                 "team_name": "ferrari",
                 "drivers": [
-                    {
-                        "driver_name": "Charles Leclerc"
-                    },
-                    {
-                        "driver_name": "Carlos Sainz"
-                    }
+                    { "driver_name": "Charles Leclerc" },
+                    { "driver_name": "Carlos Sainz" }
                 ],
-                "final_ranking" : "3", 
-                "money_spent" : "13"
+                "final_ranking": "2",
+                "points": "554"
             },
-
             {
                 "team_name": "mclaren",
                 "drivers": [
-                    {
-                        "driver_name": "Lando Norris"
-                    },
-                    {
-                        "driver_name": "Daniel Ricciardo"
-                    }
+                    { "driver_name": "Lando Norris" },
+                    { "driver_name": "Daniel Ricciardo" }
+                ],
+                "final_ranking": "5",
+                "points": "159"
+            },
+            {
+                "team_name": "alfa_romeo",
+                "drivers": [
+                    { "driver_name": "Kimi Raikkonen" },
+                    { "driver_name": "Antonio Giovinazzi" }
+                ],
+                "final_ranking": "6",
+                "points": "55"
+            },
+            {
+                "team_name": "alpha_tauri",
+                "drivers": [
+                    { "driver_name": "Pierre Gasly" },
+                    { "driver_name": "Yuki Tsunoda" }
+                ],
+                "final_ranking": "9",
+                "points": "35"
+            },
+            {
+                "team_name": "aston_martin",
+                "drivers": [
+                    { "driver_name": "Sebastian Vettel" },
+                    { "driver_name": "Lance Stroll" }
+                ],
+                "final_ranking": "7",
+                "points": "55"
+            },
+            {
+                "team_name": "haas",
+                "drivers": [
+                    { "driver_name": "Mick Schumacher" },
+                    { "driver_name": "Nikita Mazepin" }
+                ],
+                "final_ranking": "8",
+                "points": "37"
+            },
+            {
+                "team_name": "williams",
+                "drivers": [
+                    { "driver_name": "Nicholas Latifi" },
+                    { "driver_name": "Alex Albon" }
+                ],
+                "final_ranking": "10",
+                "points": "8"
+            },
+            {
+                "team_name" : "alpine",
+                "drivers" : [
+                    {"driver_name" : "Fernando Alonso"},
+                    {"driver_name" : "Esteban Ocon"}
                 ],
                 "final_ranking" : "4", 
-                "money_spent" : "2"
+                "points" : "173"
             }
-
         ],
         "year": 2023
     }
+    
+    
+    
 ]

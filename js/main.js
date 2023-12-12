@@ -29,7 +29,7 @@ g.append("text")
  .attr("y", HEIGHT + 60)
  .attr("font-size", "20px")
  .attr("text-anchor", "middle")
- .text("Money Spent")
+ .text("Points")
 
 // Y label
 const yLabel = g.append("text")
@@ -45,12 +45,12 @@ const yLabel = g.append("text")
 // money spent over the course of the season
 const x = d3.scaleLinear()
 	.range([0, WIDTH])
-	.domain([0, 21])
+	.domain([8, 759])
 
-// teams constructor ranking
+// teams constructor ranking - reversed axis because 1 is "on top"
 const y = d3.scaleLinear()
-	.range([HEIGHT, 0])
-	.domain([0, 10])
+    .range([0, HEIGHT])
+    .domain([1, 10])
 
 const area = d3.scaleLinear()
 	.range([25*Math.PI, 1500*Math.PI])
@@ -72,7 +72,7 @@ const yAxisGroup = g.append("g")
 	// setting custom x axis tick values
 	// .tickValues([400,4000,40000])
 	// .tickFormat(d3.format("$"));
-	.ticks(25)
+	.ticks(10)
 
 
  xAxisGroup.call(xAxisCall)
@@ -88,8 +88,8 @@ const yAxisGroup = g.append("g")
    yAxisGroup.call(yAxisCall)
 
 
-const teams = ["mercedes", "mclaren", "red_bull", "ferrari", "Aston Martin",
-"Alpine", "Williams", "AlphaTauri", "Alfa Romeo", "Haas"]
+const teams = ["mercedes", "red_bull", "ferrari", "mclaren", "aston_martin", 
+"alpine", "williams", "alpha_tauri", "alfa_romeo", "haas"]
 
 const legend = g.append("g")
 	.attr("transform", `translate(${WIDTH}, ${HEIGHT - 250})`)
@@ -117,7 +117,7 @@ d3.json("data/data2.json").then(function(data){
 		// for each team (per year)
 		return year["teams"].map(team => {
 			// convert the strings into numbers
-			team.money_spent = Number(team.money_spent)
+			team.points = Number(team.points)
 			team.final_ranking = Number(team.final_ranking)
 			// return team obj
 			return team
@@ -173,6 +173,10 @@ function update(data) {
 		}
 	})
 
+
+
+
+
 	// JOIN new data with old elements
 	const circles = g.selectAll("circle")
     	.data(teamChoice, (d) => {
@@ -189,9 +193,53 @@ function update(data) {
     	// AND UPDATE old elements present in new data.
     	.merge(circles)
     	.transition(t)
-      		.attr("cx", d => { return x(d["money_spent"]) })
+      		.attr("cx", d => { return x(d["points"]) })
       		.attr("cy", d => { return y(d["final_ranking"]) })
 			.attr("r", d => Math.sqrt(area(d.final_ranking) / Math.PI))
 
-	yearText.text((2022 + year).toString());
+	
+	
+	
+	
+			// JOIN new data with old elements
+	// const cars = g.selectAll("image")
+    // 	.data(teamChoice, (d) => {
+	// 		return d["team"]  //
+	// 	})
+
+    // // EXIT old elements not present in new data.
+   	// cars.exit()
+    //  	.remove()
+
+  	// // ENTER new elements present in new data...
+	//   cars.enter().append("image")
+	//   .attr("width", WIDTH / 10)
+	//   .attr("height", HEIGHT)
+	//   .attr("xlink:href", d => "images/" + d["team_name"] + ".png")
+	//   .merge(cars)
+	//   .transition(t)
+	//   .attr("x", d => x(d["points"]))
+	//   .attr("y", d => y(d["final_ranking"]));
+
+	// JOIN new data with old elements
+	// const cars = g.selectAll("text")
+    // 	.data(teamChoice, (d) => {
+	// 		return d["team"]  //
+	// 	})
+
+    // // EXIT old elements not present in new data.
+   	// cars.exit()
+    //  	.remove()
+
+  	// // ENTER new elements present in new data...
+	//   cars.enter().append("text")
+	//   .attr("width", WIDTH / 10)
+	//   .attr("height", HEIGHT)
+	//   .merge(cars)
+	//   .transition(t)
+	//   .attr("x", d => x(d["points"]))
+	//   .attr("y", d => y(d["final_ranking"]));
+
+
+	// yearText.text((2022 + year).toString());
 }
