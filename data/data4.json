@@ -1,0 +1,2731 @@
+[   
+    {
+        "drivers": [
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 1,
+            "points": 26
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Nico Hulkenberg",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 18,
+            "points": 0
+          },
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 19,
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Bahrain"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 2,
+            "points": 19
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Nico Hulkenberg",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Saudi Arabia"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 1,
+            "points": 26
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Australian"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 26
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 18,
+            "points": 0
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Emilia Romagna"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 26
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Miami"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 19
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 18,
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Spain"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 6,
+            "points": 9
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Monaco"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 19
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Azerbaijan"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 2,
+            "points": 19
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Canada"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 16
+          },
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Great Britain"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Charles Leclerc",
+            "team_name": "FERRARI",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 2,
+            "points": 19
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 4,
+            "points": 12
+          },
+          {
+            "driver_name": "Esteban Ocon",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 5,
+            "points": 10
+          },
+          {
+            "driver_name": "Mick Schumacher",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 6,
+            "points": 8
+          },
+          {
+            "driver_name": "Lando Norris",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 7,
+            "points": 6
+          },
+          {
+            "driver_name": "Kevin Magnussen",
+            "team_name": "HAAS FERRARI",
+            "final_ranking": 8,
+            "points": 4
+          },
+          {
+            "driver_name": "Daniel Ricciardo",
+            "team_name": "MCLAREN MERCEDES",
+            "final_ranking": 9,
+            "points": 2
+          },
+          {
+            "driver_name": "Fernando Alonso",
+            "team_name": "ALPINE RENAULT",
+            "final_ranking": 10,
+            "points": 1
+          },
+          {
+            "driver_name": "Valtteri Bottas",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 11,
+            "points": 0
+          },
+          {
+            "driver_name": "Alexander Albon",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": 12,
+            "points": 0
+          },
+          {
+            "driver_name": "Lance Stroll",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 13,
+            "points": 0
+          },
+          {
+            "driver_name": "Zhou Guanyu",
+            "team_name": "ALFA ROMEO FERRARI",
+            "final_ranking": 14,
+            "points": 0
+          },
+          {
+            "driver_name": "Pierre Gasly",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 15,
+            "points": 0
+          },
+          {
+            "driver_name": "Yuki Tsunoda",
+            "team_name": "ALPHATAURI RBPT",
+            "final_ranking": 16,
+            "points": 0
+          },
+          {
+            "driver_name": "Sebastian Vettel",
+            "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+            "final_ranking": 17,
+            "points": 0
+          },
+          {
+            "driver_name": "Carlos Sainz",
+            "team_name": "FERRARI",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Nicholas Latifi",
+            "team_name": "WILLIAMS MERCEDES",
+            "final_ranking": "0",
+            "points": 0
+          },
+          {
+            "driver_name": "Sergio Perez",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": "0",
+            "points": 0
+          }
+        ],
+        "race_name": "Austria"
+      },
+      {
+        "drivers": [
+          {
+            "driver_name": "Max Verstappen",
+            "team_name": "RED BULL RACING RBPT",
+            "final_ranking": 1,
+            "points": 25
+          },
+          {
+            "driver_name": "Lewis Hamilton",
+            "team_name": "MERCEDES",
+            "final_ranking": 2,
+            "points": 18
+          },
+          {
+            "driver_name": "George Russell",
+            "team_name": "MERCEDES",
+            "final_ranking": 3,
+            "points": 15
+          },
+          {    "driver_name": "Sergio Perez",
+          "team_name": "RED BULL RACING RBPT",
+          "final_ranking": 4,
+          "points": 12
+        },
+        {
+          "driver_name": "Carlos Sainz",
+          "team_name": "FERRARI",
+          "final_ranking": 5,
+          "points": 11
+        },
+        {
+          "driver_name": "Fernando Alonso",
+          "team_name": "ALPINE RENAULT",
+          "final_ranking": 6,
+          "points": 8
+        },
+        {
+          "driver_name": "Lando Norris",
+          "team_name": "MCLAREN MERCEDES",
+          "final_ranking": 7,
+          "points": 6
+        },
+        {
+          "driver_name": "Esteban Ocon",
+          "team_name": "ALPINE RENAULT",
+          "final_ranking": 8,
+          "points": 4
+        },
+        {
+          "driver_name": "Daniel Ricciardo",
+          "team_name": "MCLAREN MERCEDES",
+          "final_ranking": 9,
+          "points": 2
+        },
+        {
+          "driver_name": "Lance Stroll",
+          "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+          "final_ranking": 10,
+          "points": 1
+        },
+        {
+          "driver_name": "Sebastian Vettel",
+          "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+          "final_ranking": 11,
+          "points": 0
+        },
+        {
+          "driver_name": "Pierre Gasly",
+          "team_name": "ALPHATAURI RBPT",
+          "final_ranking": 12,
+          "points": 0
+        },
+        {
+          "driver_name": "Alexander Albon",
+          "team_name": "WILLIAMS MERCEDES",
+          "final_ranking": 13,
+          "points": 0
+        },
+        {
+          "driver_name": "Valtteri Bottas",
+          "team_name": "ALFA ROMEO FERRARI",
+          "final_ranking": 14,
+          "points": 0
+        },
+        {
+          "driver_name": "Mick Schumacher",
+          "team_name": "HAAS FERRARI",
+          "final_ranking": 15,
+          "points": 0
+        },
+        {
+          "driver_name": "Zhou Guanyu",
+          "team_name": "ALFA ROMEO FERRARI",
+          "final_ranking": 16,
+          "points": 0
+        },
+        {
+          "driver_name": "Nicholas Latifi",
+          "team_name": "WILLIAMS MERCEDES",
+          "final_ranking": "0",
+          "points": 0
+        },
+        {
+          "driver_name": "Kevin Magnussen",
+          "team_name": "HAAS FERRARI",
+          "final_ranking": "0",
+          "points": 0
+        },
+        {
+          "driver_name": "Charles Leclerc",
+          "team_name": "FERRARI",
+          "final_ranking": "0",
+          "points": 0
+        },
+        {
+          "driver_name": "Yuki Tsunoda",
+          "team_name": "ALPHATAURI RBPT",
+          "final_ranking": "0",
+          "points": 0
+        }
+      ],
+      "race_name": "France"
+      },
+
+      
+      {
+  "drivers": [
+    {
+      "driver_name": "Max Verstappen",
+      "team_name": "RED BULL RACING RBPT",
+      "final_ranking": 1,
+      "points": 25
+    },
+    {
+      "driver_name": "Lewis Hamilton",
+      "team_name": "MERCEDES",
+      "final_ranking": 2,
+      "points": 19
+    },
+    {
+      "driver_name": "George Russell",
+      "team_name": "MERCEDES",
+      "final_ranking": 3,
+      "points": 15
+    },
+    {
+      "driver_name": "Carlos Sainz",
+      "team_name": "FERRARI",
+      "final_ranking": 4,
+      "points": 12
+    },
+    {
+      "driver_name": "Sergio Perez",
+      "team_name": "RED BULL RACING RBPT",
+      "final_ranking": 5,
+      "points": 10
+    },
+    {
+      "driver_name": "Charles Leclerc",
+      "team_name": "FERRARI",
+      "final_ranking": 6,
+      "points": 8
+    },
+    {
+      "driver_name": "Lando Norris",
+      "team_name": "MCLAREN MERCEDES",
+      "final_ranking": 7,
+      "points": 6
+    },
+    {
+      "driver_name": "Fernando Alonso",
+      "team_name": "ALPINE RENAULT",
+      "final_ranking": 8,
+      "points": 4
+    },
+    {
+      "driver_name": "Esteban Ocon",
+      "team_name": "ALPINE RENAULT",
+      "final_ranking": 9,
+      "points": 2
+    },
+    {
+      "driver_name": "Sebastian Vettel",
+      "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+      "final_ranking": 10,
+      "points": 1
+    },
+    {
+      "driver_name": "Lance Stroll",
+      "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+      "final_ranking": 11,
+      "points": 0
+    },
+    {
+      "driver_name": "Pierre Gasly",
+      "team_name": "ALPHATAURI RBPT",
+      "final_ranking": 12,
+      "points": 0
+    },
+    {
+      "driver_name": "Zhou Guanyu",
+      "team_name": "ALFA ROMEO FERRARI",
+      "final_ranking": 13,
+      "points": 0
+    },
+    {
+      "driver_name": "Mick Schumacher",
+      "team_name": "HAAS FERRARI",
+      "final_ranking": 14,
+      "points": 0
+    },
+    {
+      "driver_name": "Daniel Ricciardo",
+      "team_name": "MCLAREN MERCEDES",
+      "final_ranking": 15,
+      "points": 0
+    },
+    {
+      "driver_name": "Kevin Magnussen",
+      "team_name": "HAAS FERRARI",
+      "final_ranking": 16,
+      "points": 0
+    },
+    {
+      "driver_name": "Alexander Albon",
+      "team_name": "WILLIAMS MERCEDES",
+      "final_ranking": 17,
+      "points": 0
+    },
+    {
+      "driver_name": "Nicholas Latifi",
+      "team_name": "WILLIAMS MERCEDES",
+      "final_ranking": 18,
+      "points": 0
+    },
+    {
+      "driver_name": "Yuki Tsunoda",
+      "team_name": "ALPHATAURI RBPT",
+      "final_ranking": 19,
+      "points": 0
+    },
+    {
+      "driver_name": "Valtteri Bottas",
+      "team_name": "ALFA ROMEO FERRARI",
+      "final_ranking": 20,
+      "points": 0
+    }
+  ],
+  "race_name": "Hungary"
+},
+{
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 26
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 18,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 19,
+        "points": 0
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 20,
+        "points": 0
+      }
+    ],
+    "race_name": "Belgium"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 26
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 18,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 19,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 20,
+        "points": 0
+      }
+    ],
+    "race_name": "Netherlands"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 6,
+        "points": 9
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Nyck De Vries",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      }
+    ],
+    "race_name": "Italy"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "Singapore"
+  },
+
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 18,
+        "points": 0
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "Japan"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 5,
+        "points": 11
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "US"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 4,
+        "points": 13
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 18,
+        "points": 0
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "Mexico"
+  },
+  {
+    "drivers": [
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 1,
+        "points": 26
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 6,
+        "points": 8
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "Brazil"
+  },  
+  {
+    "drivers": [
+      {
+        "driver_name": "Max Verstappen",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 1,
+        "points": 25
+      },
+      {
+        "driver_name": "Charles Leclerc",
+        "team_name": "FERRARI",
+        "final_ranking": 2,
+        "points": 18
+      },
+      {
+        "driver_name": "Sergio Perez",
+        "team_name": "RED BULL RACING RBPT",
+        "final_ranking": 3,
+        "points": 15
+      },
+      {
+        "driver_name": "Carlos Sainz",
+        "team_name": "FERRARI",
+        "final_ranking": 4,
+        "points": 12
+      },
+      {
+        "driver_name": "George Russell",
+        "team_name": "MERCEDES",
+        "final_ranking": 5,
+        "points": 10
+      },
+      {
+        "driver_name": "Lando Norris",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 6,
+        "points": 9
+      },
+      {
+        "driver_name": "Esteban Ocon",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": 7,
+        "points": 6
+      },
+      {
+        "driver_name": "Lance Stroll",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 8,
+        "points": 4
+      },
+      {
+        "driver_name": "Daniel Ricciardo",
+        "team_name": "MCLAREN MERCEDES",
+        "final_ranking": 9,
+        "points": 2
+      },
+      {
+        "driver_name": "Sebastian Vettel",
+        "team_name": "ASTON MARTIN ARAMCO MERCEDES",
+        "final_ranking": 10,
+        "points": 1
+      },
+      {
+        "driver_name": "Yuki Tsunoda",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 11,
+        "points": 0
+      },
+      {
+        "driver_name": "Zhou Guanyu",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 12,
+        "points": 0
+      },
+      {
+        "driver_name": "Alexander Albon",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": 13,
+        "points": 0
+      },
+      {
+        "driver_name": "Pierre Gasly",
+        "team_name": "ALPHATAURI RBPT",
+        "final_ranking": 14,
+        "points": 0
+      },
+      {
+        "driver_name": "Valtteri Bottas",
+        "team_name": "ALFA ROMEO FERRARI",
+        "final_ranking": 15,
+        "points": 0
+      },
+      {
+        "driver_name": "Mick Schumacher",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 16,
+        "points": 0
+      },
+      {
+        "driver_name": "Kevin Magnussen",
+        "team_name": "HAAS FERRARI",
+        "final_ranking": 17,
+        "points": 0
+      },
+      {
+        "driver_name": "Lewis Hamilton",
+        "team_name": "MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Nicholas Latifi",
+        "team_name": "WILLIAMS MERCEDES",
+        "final_ranking": -1,
+        "points": 0
+      },
+      {
+        "driver_name": "Fernando Alonso",
+        "team_name": "ALPINE RENAULT",
+        "final_ranking": -1,
+        "points": 0
+      }
+    ],
+    "race_name": "Abu Dhabi"
+  }    
+]
+      
