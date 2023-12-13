@@ -1,0 +1,589 @@
+[
+    {
+
+    "teams": [
+      {
+        "team_name": "MERCEDES",
+        "final_ranking": "1",
+        "points": "613.5"
+      },
+      {
+        "team_name": "RED BULL",
+        "final_ranking": "2",
+        "points": "585.5"
+      },
+      {
+        "team_name": "FERRARI",
+        "final_ranking": "3",
+        "points": "323.5"
+      },
+      {
+        "team_name": "MCLAREN",
+        "final_ranking": "4",
+        "points": "275"
+      },
+      {
+        "team_name": "ALPINE",
+        "final_ranking": "5",
+        "points": "155"
+      },
+      {
+        "team_name": "ALPHATAURI",
+        "final_ranking": "6",
+        "points": "142"
+      },
+      {
+        "team_name": "ASTON MARTIN",
+        "final_ranking": "7",
+        "points": "77"
+      },
+      {
+        "team_name": "WILLIAMS",
+        "final_ranking": "8",
+        "points": "23"
+      },
+      {
+        "team_name": "ALFA ROMEO",
+        "final_ranking": "9",
+        "points": "13"
+      },
+      {
+        "team_name": "HAAS",
+        "final_ranking": "10",
+        "points": "0"
+      }
+    ],
+    "year": "2021"  
+    },
+    {    
+        "teams": [
+          {
+            "team_name": "MERCEDES",
+            "final_ranking": "1",
+            "points": "573"
+          },
+          {
+            "team_name": "RED BULL",
+            "final_ranking": "2",
+            "points": "319"
+          },
+          {
+            "team_name": "MCLAREN",
+            "final_ranking": "3",
+            "points": "202"
+          },
+          {
+            "team_name": "RACING POINT",
+            "final_ranking": "4",
+            "points": "195"
+          },
+          {
+            "team_name": "RENAULT",
+            "final_ranking": "5",
+            "points": "181"
+          },
+          {
+            "team_name": "FERRARI",
+            "final_ranking": "6",
+            "points": "131"
+          },
+          {
+            "team_name": "ALPHATAURI",
+            "final_ranking": "7",
+            "points": "107"
+          },
+          {
+            "team_name": "ALFA ROMEO",
+            "final_ranking": "8",
+            "points": "8"
+          },
+          {
+            "team_name": "HAAS",
+            "final_ranking": "9",
+            "points": "3"
+          },
+          {
+            "team_name": "WILLIAMS",
+            "final_ranking": "10",
+            "points": "0"
+          }
+        ],
+        "year": "2020"
+      },
+      {
+        "teams": [
+          {
+            "team_name": "MERCEDES",
+            "final_ranking": "1",
+            "points": "739"
+          },
+          {
+            "team_name": "FERRARI",
+            "final_ranking": "2",
+            "points": "504"
+          },
+          {
+            "team_name": "RED BULL",
+            "final_ranking": "3",
+            "points": "417"
+          },
+          {
+            "team_name": "MCLAREN",
+            "final_ranking": "4",
+            "points": "145"
+          },
+          {
+            "team_name": "RENAULT",
+            "final_ranking": "5",
+            "points": "91"
+          },
+          {
+            "team_name": "SCUDERIA TORO ROSSO",
+            "final_ranking": "6",
+            "points": "85"
+          },
+          {
+            "team_name": "RACING POINT",
+            "final_ranking": "7",
+            "points": "73"
+          },
+          {
+            "team_name": "ALFA ROMEO",
+            "final_ranking": "8",
+            "points": "57"
+          },
+          {
+            "team_name": "HAAS",
+            "final_ranking": "9",
+            "points": "28"
+          },
+          {
+            "team_name": "WILLIAMS",
+            "final_ranking": "10",
+            "points": "1"
+          }
+        ],
+        "year": "2019"
+      },
+
+      {
+        "teams": [
+          {
+            "team_name": "MERCEDES",
+            "final_ranking": "1",
+            "points": "655"
+          },
+          {
+            "team_name": "FERRARI",
+            "final_ranking": "2",
+            "points": "571"
+          },
+          {
+            "team_name": "RED BULL",
+            "final_ranking": "3",
+            "points": "419"
+          },
+          {
+            "team_name": "RENAULT",
+            "final_ranking": "4",
+            "points": "122"
+          },
+          {
+            "team_name": "HAAS",
+            "final_ranking": "5",
+            "points": "93"
+          },
+          {
+            "team_name": "MCLAREN",
+            "final_ranking": "6",
+            "points": "62"
+          },
+          {
+            "team_name": "FORCE INDIA",
+            "final_ranking": "7",
+            "points": "52"
+          },
+          {
+            "team_name": "SAUBER",
+            "final_ranking": "8",
+            "points": "48"
+          },
+          {
+            "team_name": "SCUDERIA TORO ROSSO",
+            "final_ranking": "9",
+            "points": "33"
+          },
+          {
+            "team_name": "WILLIAMS",
+            "final_ranking": "10",
+            "points": "7"
+          }
+        ],
+        "year": "2018"
+      },
+
+      {
+        "teams": [
+          {
+            "team_name": "MERCEDES",
+            "final_ranking": "1",
+            "points": "668"
+          },
+          {
+            "team_name": "FERRARI",
+            "final_ranking": "2",
+            "points": "522"
+          },
+          {
+            "team_name": "RED BULL",
+            "final_ranking": "3",
+            "points": "368"
+          },
+          {
+            "team_name": "FORCE INDIA",
+            "final_ranking": "4",
+            "points": "187"
+          },
+          {
+            "team_name": "WILLIAMS",
+            "final_ranking": "5",
+            "points": "83"
+          },
+          {
+            "team_name": "RENAULT",
+            "final_ranking": "6",
+            "points": "57"
+          },
+          {
+            "team_name": "TORO ROSSO",
+            "final_ranking": "7",
+            "points": "53"
+          },
+          {
+            "team_name": "HAAS",
+            "final_ranking": "8",
+            "points": "47"
+          },
+          {
+            "team_name": "MCLAREN",
+            "final_ranking": "9",
+            "points": "30"
+          },
+          {
+            "team_name": "SAUBER",
+            "final_ranking": "10",
+            "points": "5"
+          }
+        ],
+        "year": "2017"
+    },
+    {
+        "teams": [
+          {
+            "team_name": "MERCEDES",
+            "final_ranking": "1",
+            "points": "765"
+          },
+          {
+            "team_name": "RED BULL",
+            "final_ranking": "2",
+            "points": "468"
+          },
+          {
+            "team_name": "FERRARI",
+            "final_ranking": "3",
+            "points": "398"
+          },
+          {
+            "team_name": "FORCE INDIA",
+            "final_ranking": "4",
+            "points": "173"
+          },
+          {
+            "team_name": "WILLIAMS",
+            "final_ranking": "5",
+            "points": "138"
+          },
+          {
+            "team_name": "MCLAREN",
+            "final_ranking": "6",
+            "points": "76"
+          },
+          {
+            "team_name": "TORO ROSSO",
+            "final_ranking": "7",
+            "points": "63"
+          },
+          {
+            "team_name": "HAAS",
+            "final_ranking": "8",
+            "points": "29"
+          },
+          {
+            "team_name": "RENAULT",
+            "final_ranking": "9",
+            "points": "8"
+          },
+          {
+            "team_name": "SAUBER",
+            "final_ranking": "10",
+            "points": "2"
+          },
+          {
+            "team_name": "MRT",
+            "final_ranking": "11",
+            "points": "1"
+          }
+        ],
+        "year": "2016"
+      },
+
+      {
+  "teams": [
+    {
+      "team_name": "MERCEDES",
+      "final_ranking": "1",
+      "points": "703"
+    },
+    {
+      "team_name": "FERRARI",
+      "final_ranking": "2",
+      "points": "428"
+    },
+    {
+      "team_name": "WILLIAMS",
+      "final_ranking": "3",
+      "points": "257"
+    },
+    {
+      "team_name": "RED BULL",
+      "final_ranking": "4",
+      "points": "187"
+    },
+    {
+      "team_name": "FORCE INDIA",
+      "final_ranking": "5",
+      "points": "136"
+    },
+    {
+      "team_name": "LOTUS",
+      "final_ranking": "6",
+      "points": "78"
+    },
+    {
+      "team_name": "STR",
+      "final_ranking": "7",
+      "points": "67"
+    },
+    {
+      "team_name": "SAUBER",
+      "final_ranking": "8",
+      "points": "36"
+    },
+    {
+      "team_name": "MCLAREN",
+      "final_ranking": "9",
+      "points": "27"
+    },
+    {
+      "team_name": "MARUSSIA FERRARI",
+      "final_ranking": "10",
+      "points": "0"
+    }
+  ],
+  "year": "2015"
+}
+{
+    "teams": [
+      {
+        "team_name": "MERCEDES",
+        "final_ranking": "1",
+        "points": "701"
+      },
+      {
+        "team_name": "RED BULL",
+        "final_ranking": "2",
+        "points": "405"
+      },
+      {
+        "team_name": "WILLIAMS",
+        "final_ranking": "3",
+        "points": "320"
+      },
+      {
+        "team_name": "FERRARI",
+        "final_ranking": "4",
+        "points": "216"
+      },
+      {
+        "team_name": "MCLAREN",
+        "final_ranking": "5",
+        "points": "181"
+      },
+      {
+        "team_name": "FORCE INDIA",
+        "final_ranking": "6",
+        "points": "155"
+      },
+      {
+        "team_name": "STR RENAULT",
+        "final_ranking": "7",
+        "points": "30"
+      },
+      {
+        "team_name": "LOTUS RENAULT",
+        "final_ranking": "8",
+        "points": "10"
+      },
+      {
+        "team_name": "MARUSSIA FERRARI",
+        "final_ranking": "9",
+        "points": "2"
+      },
+      {
+        "team_name": "SAUBER FERRARI",
+        "final_ranking": "10",
+        "points": "0"
+      },
+      {
+        "team_name": "CATERHAM RENAULT",
+        "final_ranking": "11",
+        "points": "0"
+      }
+    ],
+    "year": "2014"
+  },
+  {
+    "teams": [
+      {
+        "team_name": "RED BULL",
+        "final_ranking": "1",
+        "points": "596"
+      },
+      {
+        "team_name": "MERCEDES",
+        "final_ranking": "2",
+        "points": "360"
+      },
+      {
+        "team_name": "FERRARI",
+        "final_ranking": "3",
+        "points": "354"
+      },
+      {
+        "team_name": "LOTUS RENAULT",
+        "final_ranking": "4",
+        "points": "315"
+      },
+      {
+        "team_name": "MCLAREN",
+        "final_ranking": "5",
+        "points": "122"
+      },
+      {
+        "team_name": "FORCE INDIA",
+        "final_ranking": "6",
+        "points": "77"
+      },
+      {
+        "team_name": "SAUBER FERRARI",
+        "final_ranking": "7",
+        "points": "57"
+      },
+      {
+        "team_name": "STR FERRARI",
+        "final_ranking": "8",
+        "points": "33"
+      },
+      {
+        "team_name": "WILLIAMS",
+        "final_ranking": "9",
+        "points": "5"
+      },
+      {
+        "team_name": "MARUSSIA COSWORTH",
+        "final_ranking": "10",
+        "points": "0"
+      },
+      {
+        "team_name": "CATERHAM",
+        "final_ranking": "11",
+        "points": "0"
+      }
+    ],
+    "year": "2013"
+  },
+
+  {
+    "teams": [
+      {
+        "team_name": "RED BULL",
+        "final_ranking": "1",
+        "points": "460"
+      },
+      {
+        "team_name": "FERRARI",
+        "final_ranking": "2",
+        "points": "400"
+      },
+      {
+        "team_name": "MCLAREN",
+        "final_ranking": "3",
+        "points": "378"
+      },
+      {
+        "team_name": "LOTUS RENAULT",
+        "final_ranking": "4",
+        "points": "303"
+      },
+      {
+        "team_name": "MERCEDES",
+        "final_ranking": "5",
+        "points": "142"
+      },
+      {
+        "team_name": "SAUBER",
+        "final_ranking": "6",
+        "points": "126"
+      },
+      {
+        "team_name": "FORCE INDIA",
+        "final_ranking": "7",
+        "points": "109"
+      },
+      {
+        "team_name": "WILLIAMS",
+        "final_ranking": "8",
+        "points": "76"
+      },
+      {
+        "team_name": "STR FERRARI",
+        "final_ranking": "9",
+        "points": "26"
+      },
+      {
+        "team_name": "CATERHAM",
+        "final_ranking": "10",
+        "points": "0"
+      },
+      {
+        "team_name": "MARUSSIA COSWORTH",
+        "final_ranking": "11",
+        "points": "0"
+      },
+      {
+        "team_name": "HRT COSWORTH",
+        "final_ranking": "12",
+        "points": "0"
+      }
+    ],
+    "year": "2012"
+  }
+  
+  
+  
+      
+
+
+
+      ]

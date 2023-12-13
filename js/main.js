@@ -1,3 +1,6 @@
+
+
+
 const MARGIN = { LEFT: 100, RIGHT: 10, TOP: 10, BOTTOM: 100 }
 const WIDTH = 600 - MARGIN.LEFT - MARGIN.RIGHT
 const HEIGHT = 400 - MARGIN.TOP - MARGIN.BOTTOM
@@ -56,7 +59,6 @@ const area = d3.scaleLinear()
 	.range([25*Math.PI, 1500*Math.PI])
 	.domain([0, 1000])
 
-// const teamColor = d3.scaleOrdinal().range(["blue", "green", "yellow", "red", "pink", "brown", "slateblue", "grey1", "orange"])
 var teamColor = d3.scaleOrdinal().range(d3.schemePaired);
 
 // x axis
@@ -69,9 +71,6 @@ const yAxisGroup = g.append("g")
  .attr("class", "y axis")
 
  const xAxisCall = d3.axisBottom(x)
-	// setting custom x axis tick values
-	// .tickValues([400,4000,40000])
-	// .tickFormat(d3.format("$"));
 	.ticks(10)
 
 
@@ -197,49 +196,60 @@ function update(data) {
       		.attr("cy", d => { return y(d["final_ranking"]) })
 			.attr("r", d => Math.sqrt(area(d.final_ranking) / Math.PI))
 
-	
-	
-	
-	
-			// JOIN new data with old elements
-	// const cars = g.selectAll("image")
-    // 	.data(teamChoice, (d) => {
-	// 		return d["team"]  //
-	// 	})
-
-    // // EXIT old elements not present in new data.
-   	// cars.exit()
-    //  	.remove()
-
-  	// // ENTER new elements present in new data...
-	//   cars.enter().append("image")
-	//   .attr("width", WIDTH / 10)
-	//   .attr("height", HEIGHT)
-	//   .attr("xlink:href", d => "images/" + d["team_name"] + ".png")
-	//   .merge(cars)
-	//   .transition(t)
-	//   .attr("x", d => x(d["points"]))
-	//   .attr("y", d => y(d["final_ranking"]));
-
-	// JOIN new data with old elements
-	// const cars = g.selectAll("text")
-    // 	.data(teamChoice, (d) => {
-	// 		return d["team"]  //
-	// 	})
-
-    // // EXIT old elements not present in new data.
-   	// cars.exit()
-    //  	.remove()
-
-  	// // ENTER new elements present in new data...
-	//   cars.enter().append("text")
-	//   .attr("width", WIDTH / 10)
-	//   .attr("height", HEIGHT)
-	//   .merge(cars)
-	//   .transition(t)
-	//   .attr("x", d => x(d["points"]))
-	//   .attr("y", d => y(d["final_ranking"]));
-
-
-	// yearText.text((2022 + year).toString());
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function calculateTotalPointsPerTeam(races) {
+	const teamPoints = {};
+  
+	for (const race of races) {
+	  const raceName = race.race_name;
+	  const drivers = race.drivers;
+  
+	  for (const driver of drivers) {
+		const teamName = driver.team_name;
+		const points = driver.points;
+  
+		if (!teamPoints[teamName]) {
+		  teamPoints[teamName] = { [raceName]: points };
+		} else {
+		  if (!teamPoints[teamName][raceName]) {
+			teamPoints[teamName][raceName] = points;
+		  } else {
+			teamPoints[teamName][raceName] += points;
+		  }
+		}
+	  }
+	}
+  
+	return teamPoints;
+  }
+  
+  d3.json("data/data4.json")
+	.then(function (racesData) {
+	  const totalPointsPerTeam = calculateTotalPointsPerTeam(racesData);
+  
+	  // Print the results
+	  for (const team in totalPointsPerTeam) {
+		console.log(`Team: ${team}`);
+		for (const race in totalPointsPerTeam[team]) {
+		  console.log(`  ${race}: ${totalPointsPerTeam[team][race]} points`);
+		}
+	  }
+	})
+	.catch(function (error) {
+	  console.error("Error loading JSON file:", error);
+	});
